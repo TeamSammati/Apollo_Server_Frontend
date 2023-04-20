@@ -1,6 +1,6 @@
 // All the Service URL's are to be included here...
-//let ipAddress = "65.2.131.186"
-let ipAddress = "172.16.137.28"
+let ipAddress = "3.110.31.27"
+// let ipAddress = "172.16.137.28"
 
 let portNumber = 6969;
 const configURL = {
